@@ -16,4 +16,3 @@ class Tiger < Mammal
 end
 
 tiger_1 = Tiger.new
-binding.pry

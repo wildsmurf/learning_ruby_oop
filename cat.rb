@@ -14,4 +14,3 @@ class Cat < Mammal
 end
 
 cat_1 = Cat.new('Jax', 3)
-binding.pry
